@@ -8,7 +8,6 @@
                 "@id": "schema:description"
             }
         },
-        "https://w3id.org/security/data-integrity/v2"
     ],
     "type": [
         "VerifiableCredential"
